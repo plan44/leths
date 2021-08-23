@@ -11,21 +11,28 @@ omegas:
 #    settings: [{color: 'ffffff', text: 'The quick brown fox jumps over the lazy dog +++ 0123456789+"*$%&/()=,;.:-_!?^~` +++ THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG +++ ' }]
 #    settings: [{color: 'ffffff', text: 'Benno Eddi Rolf - Wolf +++ Sue Claire Trine - Biene +++ '}]
 #    settings: [{ scene: 'scenes/rainbow.json' }]
-    settings: [{ scene: 'scenes/pactext.json' }]
+    settings: [{ scene: 'scenes/pacman.json' }]
     scrollSettings: { stepx: 1, stepy: 0, steps: -1, interval: 25, roundoffsets: true }
     texts:
 
       # luz test unit
 #      - { addr: 'fe80::42a3:6bff:fec1:8397', gridcoordinate: "B1", text: [ { cols: 72, offset: 766, orientation: 0 } ] }
 #      - { addr: 'fe80::4d2:eda4:a942:d178 11200', gridcoordinate: "B1", text: [ { cols: 72, offset: 766, orientation: 0 } ] }
-      - { addr: '::1 11200', gridcoordinate: "B1", text: [ { cols: 72, offset: 0, orientation: 0 } ] }
+      - { addr: 'fe80::42a3:6bff:fec1:8907', gridcoordinate: "B1", text: [ { cols: 72, offset: 0, orientation: 0 } ] }
+      - { addr: '::1 11200', gridcoordinate: "B2", text: [ { cols: 72, offset: 0, orientation: 0 } ] }
 
 
   light:
     size: {x: 5, y: 7} # (N, M)
     lights: # starting at x=0, y=0 -> x=N, y=0 -> x=1, y=1 ...
+
+      - { addr: 'fe80::42a3:6bff:fec1:8907', gridcoordinate: "B2" }
+
+
       # row 0 -> y=0
-      - { addr: '::1 11201', gridcoordinate: "B2" }
+      #- { addr: '::1 11201', gridcoordinate: "B2" }
+
+
 
   neuron:
     movingAverageCount: 20 # Number of frames for moving average
@@ -33,6 +40,8 @@ omegas:
     numBodyLeds: 70
     neurons:
       # tested Neurons
+
+      #- { addr: 'fe80::42a3:6bff:fec1:8907', gridcoordinate: "D6", x: 2, y : 4, numAxonLeds: 70}
 
       # D6
       - { addr: '::1 11202', gridcoordinate: "D6", x: 2, y : 4, numAxonLeds: 70}
