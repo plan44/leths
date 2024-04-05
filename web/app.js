@@ -22,6 +22,7 @@ angular
       $scope.mute = (t, c, b) => websocket.emit('config', {mute: {t, c, b}})
       $scope.setText = (t) => websocket.emit('set', {k: 'text', v: t})      
       $scope.startText = () => websocket.emit('startScroll', {})
+      $scope.stopText = () => websocket.emit('stopScroll', {})
     }]
   }) 
   $stateProvider.state('advanced', {
