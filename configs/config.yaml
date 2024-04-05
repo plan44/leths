@@ -32,12 +32,12 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571413185
+              unixtime: 1547571472722
             wifitrack: false
           gridcoordinate: E9
           macaddress: '40:A3:6B:C1:82:B2'
-          ipv4: 192.168.1.56
-          now: 1547571413185
+          ipv4: 0.0.0.0
+          now: 1547571472723
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:82b1'
@@ -59,12 +59,12 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571777002
+              unixtime: 1547571840221
             wifitrack: false
           gridcoordinate: D9
           macaddress: '40:A3:6B:C1:82:B1'
-          ipv4: 192.168.1.69
-          now: 1547571777002
+          ipv4: 0.0.0.0
+          now: 1547571840221
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:8262'
@@ -86,12 +86,12 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571782576
+              unixtime: 1547571628972
             wifitrack: false
           gridcoordinate: C9
           macaddress: '40:A3:6B:C1:82:62'
-          ipv4: 192.168.1.97
-          now: 1547571782576
+          ipv4: 192.168.0.121
+          now: 1547571628972
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:8253'
@@ -113,12 +113,12 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1600034406846
+              unixtime: 1547571477215
             wifitrack: false
           gridcoordinate: B9
           macaddress: '40:A3:6B:C1:82:53'
-          ipv4: 192.168.1.88
-          now: 1600034406846
+          ipv4: 0.0.0.0
+          now: 1547571477215
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:8375'
@@ -143,14 +143,14 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571840420
+              unixtime: 1547571841177
             wifitrack: false
           gridcoordinate: A9
           macaddress: '40:A3:6B:C1:83:75'
-          ipv4: 192.168.1.102
-          now: 1547571840420
+          ipv4: 0.0.0.0
+          now: 1547571841178
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:80e3'
         gridcoordinate: A8
         text:
@@ -170,14 +170,14 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571776534
+              unixtime: 1547571840211
             wifitrack: false
           gridcoordinate: A8
           macaddress: '40:A3:6B:C1:80:E3'
-          ipv4: 192.168.1.100
-          now: 1547571776534
+          ipv4: 0.0.0.0
+          now: 1547571840212
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:82a3'
         gridcoordinate: A7
         text:
@@ -197,12 +197,12 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571412605
+              unixtime: 1547571476220
             wifitrack: false
           gridcoordinate: A7
           macaddress: '40:A3:6B:C1:82:A3'
-          ipv4: 192.168.1.98
-          now: 1547571412605
+          ipv4: 0.0.0.0
+          now: 1547571476220
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:838a'
@@ -227,14 +227,14 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571413618
+              unixtime: 1547571477222
             wifitrack: false
           gridcoordinate: A6
           macaddress: '40:A3:6B:C1:83:8A'
-          ipv4: 192.168.1.77
-          now: 1547571413618
+          ipv4: 0.0.0.0
+          now: 1547571477223
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:828e'
         gridcoordinate: A5
         text:
@@ -254,12 +254,12 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571778958
+              unixtime: 1547571840241
             wifitrack: false
           gridcoordinate: A5
           macaddress: '40:A3:6B:C1:82:8E'
-          ipv4: 192.168.1.80
-          now: 1547571778958
+          ipv4: 0.0.0.0
+          now: 1547571840241
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:825c'
@@ -281,14 +281,14 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571779897
+              unixtime: 1547571841214
             wifitrack: false
           gridcoordinate: A4
           macaddress: '40:A3:6B:C1:82:5C'
-          ipv4: 192.168.1.81
-          now: 1547571779897
+          ipv4: 192.168.0.100
+          now: 1547571841214
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:828a'
         gridcoordinate: A3
         text:
@@ -308,12 +308,12 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571778876
+              unixtime: 1547571840233
             wifitrack: false
           gridcoordinate: A3
           macaddress: '40:A3:6B:C1:82:8A'
-          ipv4: 192.168.1.85
-          now: 1547571778876
+          ipv4: 0.0.0.0
+          now: 1547571840233
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:82a4'
@@ -335,14 +335,14 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547747438826
+              unixtime: 1547747500168
             wifitrack: false
           gridcoordinate: A2
           macaddress: '40:A3:6B:C1:82:A4'
-          ipv4: 192.168.1.89
-          now: 1547747438826
+          ipv4: 0.0.0.0
+          now: 1547747500169
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:82a6'
         gridcoordinate: A1
         text:
@@ -366,12 +366,12 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571779816
+              unixtime: 1547571841209
             wifitrack: false
           gridcoordinate: A1
           macaddress: '40:A3:6B:C1:82:A6'
-          ipv4: 192.168.1.88
-          now: 1547571779816
+          ipv4: 192.168.0.104
+          now: 1547571841210
           version: 1.9.1
       - addr: 'fe80::42a3:6bff:fec1:838d'
         gridcoordinate: B1
@@ -393,12 +393,12 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571777865
+              unixtime: 1547571839232
             wifitrack: false
           gridcoordinate: B1
           macaddress: '40:A3:6B:C1:83:8D'
-          ipv4: 192.168.1.86
-          now: 1547571777865
+          ipv4: 0.0.0.0
+          now: 1547571839232
           version: 1.9.1
       - addr: 'fe80::42a3:6bff:fec1:8298'
         gridcoordinate: C1
@@ -420,12 +420,12 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571420580
+              unixtime: 1547571266949
             wifitrack: false
           gridcoordinate: C1
           macaddress: '40:A3:6B:C1:82:98'
-          ipv4: 192.168.1.99
-          now: 1547571420580
+          ipv4: 192.168.0.120
+          now: 1547571266949
           version: 1.9.1
       - addr: 'fe80::42a3:6bff:fec1:8567'
         gridcoordinate: D1
@@ -447,12 +447,12 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571777002
+              unixtime: 1547571840202
             wifitrack: false
           gridcoordinate: D1
           macaddress: '40:A3:6B:C1:85:67'
-          ipv4: 192.168.1.63
-          now: 1547571777002
+          ipv4: 0.0.0.0
+          now: 1547571840202
           version: 1.9.1
       - addr: 'fe80::42a3:6bff:fec1:8381'
         gridcoordinate: E1
@@ -460,7 +460,7 @@ omegas:
           - cols: 72
             offset: 982
             orientation: 0
-        mute: 0
+        mute: 1
         status:
           features:
             hermel: false
@@ -474,12 +474,12 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571775170
+              unixtime: 1547571834684
             wifitrack: false
           gridcoordinate: E1
           macaddress: '40:A3:6B:C1:83:81'
-          ipv4: 192.168.1.51
-          now: 1547571775170
+          ipv4: 0.0.0.0
+          now: 1547571834684
           version: 1.9.1
       - addr: 'fe80::42a3:6bff:fec1:839f'
         gridcoordinate: F1
@@ -501,12 +501,12 @@ omegas:
               scrollstepx: 0
               scrollstepy: 0
               scrollsteptime: 0
-              unixtime: 1547571409936
+              unixtime: 1547571473757
             wifitrack: false
           gridcoordinate: F1
           macaddress: '40:A3:6B:C1:83:9F'
-          ipv4: 192.168.1.60
-          now: 1547571409936
+          ipv4: 0.0.0.0
+          now: 1547571473758
           version: 1.9.1
   light:
     size:
@@ -526,10 +526,10 @@ omegas:
             wifitrack: false
           gridcoordinate: B2
           macaddress: '40:A3:6B:C1:80:54'
-          ipv4: 192.168.1.82
-          now: 1547571787883
+          ipv4: 192.168.0.153
+          now: 1547571636286
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:8069'
         gridcoordinate: C2
         status:
@@ -543,25 +543,25 @@ omegas:
             wifitrack: false
           gridcoordinate: C2
           macaddress: '40:A3:6B:C1:80:69'
-          ipv4: 192.168.1.54
-          now: 1547571787706
+          ipv4: 0.0.0.0
+          now: 1547571846303
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:827f'
         gridcoordinate: D2
         status:
           features:
             hermel: false
             light:
-              brightness: 0
+              brightness: 0.02791749230055851
             mixloop: false
             neuron: false
             text: false
             wifitrack: false
           gridcoordinate: D2
           macaddress: '40:A3:6B:C1:82:7F'
-          ipv4: 192.168.1.65
-          now: 1547571781141
+          ipv4: 10.0.15.139
+          now: 1712231956205
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:8066'
@@ -577,10 +577,10 @@ omegas:
             wifitrack: false
           gridcoordinate: E2
           macaddress: '40:A3:6B:C1:80:66'
-          ipv4: 192.168.1.50
-          now: 1547571783323
+          ipv4: 0.0.0.0
+          now: 1547571842786
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:8289'
         gridcoordinate: F2
         status:
@@ -594,10 +594,10 @@ omegas:
             wifitrack: false
           gridcoordinate: F2
           macaddress: '40:A3:6B:C1:82:89'
-          ipv4: 192.168.1.62
-          now: 1547571770040
+          ipv4: 192.168.0.103
+          now: 1547571833773
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:8390'
         gridcoordinate: B3
         status:
@@ -611,8 +611,8 @@ omegas:
             wifitrack: false
           gridcoordinate: B3
           macaddress: '40:A3:6B:C1:83:90'
-          ipv4: 192.168.1.78
-          now: 1547571781919
+          ipv4: 192.168.0.147
+          now: 1547571630240
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:7ff1'
@@ -628,8 +628,8 @@ omegas:
             wifitrack: false
           gridcoordinate: C3
           macaddress: '40:A3:6B:C1:7F:F1'
-          ipv4: 192.168.1.90
-          now: 1547571783720
+          ipv4: 0.0.0.0
+          now: 1547571842270
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:82ad'
@@ -638,15 +638,15 @@ omegas:
           features:
             hermel: false
             light:
-              brightness: 0
+              brightness: 0.42011058369769017
             mixloop: false
             neuron: false
             text: false
             wifitrack: false
           gridcoordinate: D3
           macaddress: '40:A3:6B:C1:82:AD'
-          ipv4: 192.168.1.64
-          now: 1547571772113
+          ipv4: 10.0.15.185
+          now: 1712231956206
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:808b'
@@ -662,10 +662,10 @@ omegas:
             wifitrack: false
           gridcoordinate: E3
           macaddress: '40:A3:6B:C1:80:8B'
-          ipv4: 192.168.1.55
-          now: 1547571415309
+          ipv4: 0.0.0.0
+          now: 1547571474812
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:8063'
         gridcoordinate: F3
         status:
@@ -679,8 +679,8 @@ omegas:
             wifitrack: false
           gridcoordinate: F3
           macaddress: '40:A3:6B:C1:80:63'
-          ipv4: 192.168.1.66
-          now: 1547571772040
+          ipv4: 0.0.0.0
+          now: 1547571835757
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:8103'
@@ -696,8 +696,8 @@ omegas:
             wifitrack: false
           gridcoordinate: B4
           macaddress: '40:A3:6B:C1:81:03'
-          ipv4: 192.168.1.79
-          now: 1547571790888
+          ipv4: 192.168.0.136
+          now: 1547571639289
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:8292'
@@ -713,25 +713,25 @@ omegas:
             wifitrack: false
           gridcoordinate: C4
           macaddress: '40:A3:6B:C1:82:92'
-          ipv4: 192.168.1.94
-          now: 1547571788713
+          ipv4: 192.168.0.102
+          now: 1547571847293
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:8003'
         gridcoordinate: D4
         status:
           features:
             hermel: false
             light:
-              brightness: 0
+              brightness: 0.4978939089430099
             mixloop: false
             neuron: false
             text: false
             wifitrack: false
           gridcoordinate: D4
           macaddress: '40:A3:6B:C1:80:03'
-          ipv4: 192.168.1.61
-          now: 1547571774145
+          ipv4: 10.0.15.37
+          now: 1712231956208
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:8006'
@@ -747,10 +747,10 @@ omegas:
             wifitrack: false
           gridcoordinate: E4
           macaddress: '40:A3:6B:C1:80:06'
-          ipv4: 192.168.1.53
-          now: 1547571772330
+          ipv4: 0.0.0.0
+          now: 1547571831794
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:832d'
         gridcoordinate: F4
         status:
@@ -764,10 +764,10 @@ omegas:
             wifitrack: false
           gridcoordinate: F4
           macaddress: '40:A3:6B:C1:83:2D'
-          ipv4: 192.168.1.68
-          now: 1547571786042
+          ipv4: 0.0.0.0
+          now: 1547571849779
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:8036'
         gridcoordinate: B5
         status:
@@ -781,10 +781,10 @@ omegas:
             wifitrack: false
           gridcoordinate: B5
           macaddress: '40:A3:6B:C1:80:36'
-          ipv4: 192.168.1.83
-          now: 1547571414952
+          ipv4: 192.168.0.117
+          now: 1633096193311
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:837e'
         gridcoordinate: C5
         status:
@@ -798,8 +798,8 @@ omegas:
             wifitrack: false
           gridcoordinate: C5
           macaddress: '40:A3:6B:C1:83:7E'
-          ipv4: 192.168.1.93
-          now: 1547571789708
+          ipv4: 0.0.0.0
+          now: 1547571848318
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:82a0'
@@ -808,15 +808,15 @@ omegas:
           features:
             hermel: false
             light:
-              brightness: 0
+              brightness: 0.7364746681816092
             mixloop: false
             neuron: false
             text: false
             wifitrack: false
           gridcoordinate: D5
           macaddress: '40:A3:6B:C1:82:A0'
-          ipv4: 192.168.1.73
-          now: 1547571774094
+          ipv4: 10.0.15.172
+          now: 1712231956207
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:7ffa'
@@ -832,8 +832,8 @@ omegas:
             wifitrack: false
           gridcoordinate: E5
           macaddress: '40:A3:6B:C1:7F:FA'
-          ipv4: 192.168.1.52
-          now: 1547571792310
+          ipv4: 0.0.0.0
+          now: 1547571851808
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:800f'
@@ -849,8 +849,8 @@ omegas:
             wifitrack: false
           gridcoordinate: F5
           macaddress: '40:A3:6B:C1:80:0F'
-          ipv4: 192.168.1.67
-          now: 1547571768059
+          ipv4: 0.0.0.0
+          now: 1547571831798
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:8018'
@@ -866,8 +866,8 @@ omegas:
             wifitrack: false
           gridcoordinate: B6
           macaddress: '40:A3:6B:C1:80:18'
-          ipv4: 192.168.1.84
-          now: 1547571793900
+          ipv4: 192.168.0.104
+          now: 1633096193313
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:8407'
@@ -883,25 +883,25 @@ omegas:
             wifitrack: false
           gridcoordinate: C6
           macaddress: '40:A3:6B:C1:84:07'
-          ipv4: 192.168.1.95
-          now: 1547571777734
+          ipv4: 0.0.0.0
+          now: 1547571836317
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:803c'
         gridcoordinate: D6
         status:
           features:
             hermel: false
             light:
-              brightness: 0
+              brightness: 0.3494031043288648
             mixloop: false
             neuron: false
             text: false
             wifitrack: false
           gridcoordinate: D6
           macaddress: '40:A3:6B:C1:80:3C'
-          ipv4: 192.168.1.72
-          now: 1547571775141
+          ipv4: 10.0.15.94
+          now: 1712231956206
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:8084'
@@ -917,10 +917,10 @@ omegas:
             wifitrack: false
           gridcoordinate: E6
           macaddress: '40:A3:6B:C1:80:84'
-          ipv4: 192.168.1.58
-          now: 1547571770304
+          ipv4: 0.0.0.0
+          now: 1547571829738
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:8290'
         gridcoordinate: F6
         status:
@@ -934,8 +934,8 @@ omegas:
             wifitrack: false
           gridcoordinate: F6
           macaddress: '40:A3:6B:C1:82:90'
-          ipv4: 192.168.1.75
-          now: 1547571780081
+          ipv4: 0.0.0.0
+          now: 1547571843814
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:8295'
@@ -944,15 +944,15 @@ omegas:
           features:
             hermel: false
             light:
-              brightness: 0
+              brightness: 0.9
             mixloop: false
             neuron: false
             text: false
             wifitrack: false
           gridcoordinate: B7
           macaddress: '40:A3:6B:C1:82:95'
-          ipv4: 192.168.1.87
-          now: 1547571779878
+          ipv4: 192.168.0.105
+          now: 1632982497425
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:84a4'
@@ -968,8 +968,8 @@ omegas:
             wifitrack: false
           gridcoordinate: C7
           macaddress: '40:A3:6B:C1:84:A4'
-          ipv4: 192.168.1.96
-          now: 1547571782711
+          ipv4: 0.0.0.0
+          now: 1547571841326
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:8385'
@@ -985,8 +985,8 @@ omegas:
             wifitrack: false
           gridcoordinate: D7
           macaddress: '40:A3:6B:C1:83:85'
-          ipv4: 192.168.1.70
-          now: 1547749362155
+          ipv4: 0.0.0.0
+          now: 1547749425285
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:80f5'
@@ -1002,8 +1002,8 @@ omegas:
             wifitrack: false
           gridcoordinate: E7
           macaddress: '40:A3:6B:C1:80:F5'
-          ipv4: 192.168.1.59
-          now: 1547571773334
+          ipv4: 0.0.0.0
+          now: 1547571832832
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:80c8'
@@ -1019,10 +1019,10 @@ omegas:
             wifitrack: false
           gridcoordinate: F7
           macaddress: '40:A3:6B:C1:80:C8'
-          ipv4: 192.168.1.74
-          now: 1547571776803
+          ipv4: 0.0.0.0
+          now: 1547571841071
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:82c7'
         gridcoordinate: B8
         status:
@@ -1036,10 +1036,10 @@ omegas:
             wifitrack: false
           gridcoordinate: B8
           macaddress: '40:A3:6B:C1:82:C7'
-          ipv4: 192.168.1.58
-          now: 1600034408064
+          ipv4: 192.168.0.123
+          now: 1633096193316
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:8042'
         gridcoordinate: C8
         status:
@@ -1053,25 +1053,25 @@ omegas:
             wifitrack: false
           gridcoordinate: C8
           macaddress: '40:A3:6B:C1:80:42'
-          ipv4: 192.168.1.92
-          now: 1547571783723
+          ipv4: 0.0.0.0
+          now: 1547571842290
           version: 1.9.1
-        mute: 0
+        mute: 1
       - addr: 'fe80::42a3:6bff:fec1:82a8'
         gridcoordinate: D8
         status:
           features:
             hermel: false
             light:
-              brightness: 0
+              brightness: 0.2510744777154639
             mixloop: false
             neuron: false
             text: false
             wifitrack: false
           gridcoordinate: D8
           macaddress: '40:A3:6B:C1:82:A8'
-          ipv4: 192.168.1.71
-          now: 1547571781144
+          ipv4: 10.0.15.180
+          now: 1712231956206
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:805d'
@@ -1087,8 +1087,8 @@ omegas:
             wifitrack: false
           gridcoordinate: E8
           macaddress: '40:A3:6B:C1:80:5D'
-          ipv4: 192.168.1.57
-          now: 1547571771332
+          ipv4: 0.0.0.0
+          now: 1547571830767
           version: 1.9.1
         mute: 0
       - addr: 'fe80::42a3:6bff:fec1:8000'
@@ -1104,8 +1104,8 @@ omegas:
             wifitrack: false
           gridcoordinate: F8
           macaddress: '40:A3:6B:C1:80:00'
-          ipv4: 192.168.1.76
-          now: 1547571783064
+          ipv4: 0.0.0.0
+          now: 1547571846818
           version: 1.9.1
         mute: 0
   neuron:
